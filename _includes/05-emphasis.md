@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Urielux la para
+
+abajo hay una _lista_ de mis **vacaneria**
+
+## aqui tato
+-html
+-css
+javascript
+
